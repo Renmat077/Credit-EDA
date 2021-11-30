@@ -1,8 +1,8 @@
 # Credit-EDA
 
-_**Problem Statement & Objective**
+**Problem Statement & Objective**
 
-**Problem Statement**
+_**Problem Statement**_
 - Consumer Finance Company finds it difficult to provide various loans to the people due to their insufficient or
 nonexistent credit history. Because of this, there are few defaulters. Finance company is failing to know if the
 applicants are capable of repaying the loan or not.
